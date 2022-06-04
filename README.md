@@ -16,4 +16,5 @@
 2. 커맨드 모드에서 매크로문자p를 입력하여 래지스터로부터 바로 붙여넣기 한다. 
  
 + 사용 예시
-![Hnet com-image](https://user-images.githubusercontent.com/50985536/171999803-fb79a766-794f-409b-aecd-acce5b9d744f.gif)
+
+![Hnet-image](https://user-images.githubusercontent.com/50985536/172001317-e33a47f6-9e02-41e1-b7a1-063e3a0df66e.gif)
